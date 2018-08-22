@@ -8,13 +8,13 @@ import (
 	"github.com/urfave/cli"
 )
 
-const usage = `
+const usage = `a toy for tinkering with criu
 _____.__                
 _/ ____\  |  __ _____  ___
 \   __\|  | |  |  \  \/  /
  |  |  |  |_|  |  />    < 
  |__|  |____/____//__/\_ \
-						\/
+                        \/
 `
 
 func init() {
